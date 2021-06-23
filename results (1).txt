@@ -1,0 +1,6 @@
+
+Weather Stats for - KOZHIKODE  || 23 Jun 2021 | 06:41:47 AM
+Current temperature is: 31.65 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :75%
+Current wind speed    :4.28kmph
